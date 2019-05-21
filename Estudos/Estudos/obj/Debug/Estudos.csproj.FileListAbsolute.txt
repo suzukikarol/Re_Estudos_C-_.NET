@@ -1,0 +1,7 @@
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\obj\Debug\Estudos.csprojAssemblyReference.cache
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\obj\Debug\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe.config
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\bin\Debug\Estudos.pdb
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\obj\Debug\Estudos.exe
+C:\Users\karoline.suzuki\source\repos\Estudos\Estudos\obj\Debug\Estudos.pdb
